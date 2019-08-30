@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="cd_catalog.css"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/colorFundo"
+    tools:context="gooddealapp.xdeal.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="A"
+        android:id="@+id/a"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="40dp"
+
+       />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="B"
+        android:id="@+id/b"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="40dp"
+
+        />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="CAIXA - FARDO - PACOTE"
+        android:id="@+id/pack"
+        android:layout_below="@+id/b"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/check1"
+        android:checked="false"
+        android:clickable="true"
+        android:layout_alignRight="@+id/a"
+        android:layout_alignStard="@+id/a"
+        android:layout_marginTop="85dp" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/check2"
+        android:checked="false"
+        android:clickable="true"
+        android:layout_alignLeft="@+id/b"
+        android:layout_alignStart="@+id/b"
+        android:layout_marginTop="85dp" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="QUANTIDADE DE ITENS"
+        android:id="@+id/qtd"
+        android:layout_below="@+id/pack"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="4"
+        android:id="@+id/editText"
+        android:enabled="false"
+        android:gravity="center"
+        android:layout_above="@+id/preco"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="4"
+        android:id="@+id/editText2"
+        android:editable="true"
+        android:enabled="false"
+        android:gravity="center"
+        android:layout_above="@+id/preco"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="QUANTIDADE POR ITEM"
+        android:id="@+id/item"
+        android:layout_below="@+id/preco"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:ems="4"
+        android:id="@+id/editText3"
+        android:editable="true"
+        android:enabled="true"
+        android:gravity="center"
+        android:layout_alignBottom="@+id/textView6"
+        android:layout_toRightOf="@+id/item"
+        android:layout_toEndOf="@+id/item" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:ems="4"
+        android:id="@+id/editText5"
+        android:editable="true"
+        android:enabled="true"
+        android:autoText="false"
+        android:gravity="center"
+        android:layout_alignBottom="@+id/textView6"
+        android:layout_toLeftOf="@+id/qtd"
+        android:layout_toStartOf="@+id/qtd" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="UNIDADE DE MEDIDA"
+        android:id="@+id/textView6"
+        android:layout_below="@+id/item"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="4"
+        android:id="@+id/editText6"
+        android:editable="true"
+        android:enabled="true"
+        android:numeric="integer"
+        android:gravity="center"
+        android:layout_alignBottom="@+id/item"
+        android:layout_toLeftOf="@+id/item"
+        android:layout_toStartOf="@+id/item" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="4"
+        android:id="@+id/editText7"
+        android:editable="false"
+        android:enabled="true"
+        android:numeric="integer"
+        android:gravity="center"
+        android:layout_alignBottom="@+id/item"
+        android:layout_toRightOf="@+id/item"
+        android:layout_toEndOf="@+id/item" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="PREÇO TOTAL - (R$)"
+        android:id="@+id/preco"
+        android:layout_below="@+id/qtd"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:ems="4"
+        android:id="@+id/editText8"
+        android:enabled="true"
+        android:editable="true"
+        android:numeric="decimal"
+        android:gravity="center"
+        android:maxLength="5"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:ems="4"
+        android:id="@+id/editText9"
+        android:editable="true"
+        android:enabled="true"
+        android:numeric="decimal"
+        android:gravity="center"
+        android:maxLength="5"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="XDEAL"
+        android:id="@+id/button"
+        android:enabled="true"
+        android:layout_toRightOf="@+id/editText6"
+        android:layout_alignParentBottom="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LIMPAR"
+        android:id="@+id/button2"
+        android:enabled="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/preco"
+        android:layout_alignEnd="@+id/preco" />
+
+</RelativeLayout>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\LUCAS\AndroidStudioProjects\Xdeal\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ee75bcbf1e63db99aeffd8fd2d420902c7152117">
+        <dex dex="C:\Users\LUCAS\AndroidStudioProjects\Xdeal\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a8ac16871cbed80edbd348274b73f5a3adf1e735\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\LUCAS\AndroidStudioProjects\Xdeal\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\LUCAS\AndroidStudioProjects\Xdeal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_a655f49b1ca57571125e607b5d170471680f11d8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\LUCAS\AndroidStudioProjects\Xdeal\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d19da05e4481fad40233ad9e41b20e6949e51d3c">
+        <dex dex="C:\Users\LUCAS\AndroidStudioProjects\Xdeal\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3c9f9ddf36b6879c4148022d981ccd5b292f64f4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\LUCAS\AndroidStudioProjects\Xdeal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\LUCAS\AndroidStudioProjects\Xdeal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_55c52638a6d7821e61d86726406b57bfb592c740\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\LUCAS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\LUCAS\AndroidStudioProjects\Xdeal\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_afe5b28fdd996f22431c26b3f1f9c08646a5fcd6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\LUCAS\AndroidStudioProjects\Xdeal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\LUCAS\AndroidStudioProjects\Xdeal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_e0cc62f062867dfe2d32eb63b29cc4bcebafbe4e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\LUCAS\AndroidStudioProjects\Xdeal\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\LUCAS\AndroidStudioProjects\Xdeal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_d3c27e4ddb9b250678cf618094682ccd31262bf4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\LUCAS\AndroidStudioProjects\Xdeal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\LUCAS\AndroidStudioProjects\Xdeal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_68abd4b0aecf512ff1be0fb29c831e64cab9e034\classes.dex" />
+    </item>
+
+</items>

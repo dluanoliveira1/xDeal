@@ -1,0 +1,27 @@
+Business Intellegence.
+
+Business Intellegence refere ao processo de coleta, organização e analise da dados, oferecendo suporte
+para gestão de um negocio. A partir dessas informações, são tomadas decisões estratégicas para o negocio.
+Tem como estrutura, três partições, sua empresa, sua gestão e a tecnologia.
+
+Inicialmente, as informações são colhidas dentro das próprias empresa. Posteriormente, para cada empresa, 
+existe uma linha de planejamento e geração de informação diferente, decorrente as necessidades do consumidor, 
+o processo de decisão do cliente, as pressões competitivas, as condições industriais e os aspectos econômicos,
+culturais e tecnológicos.
+
+Com todos as informações coletadas, tem como objetivo, parear dados com comportamentos e prever as necessidades
+que o negocio necessita, desta forma, detectar tendências do mercado, e entender seus clientes e suas necessidades.
+O business intellegence visa assosiar os dados com decisôes estratégicas de sucesso. 
+
+Com o aumento da tecnologia e internet. Tudo mudou, onde antes os BI's eram apenas utilizados para a tomada de 
+decisão um pequenos número de pessoas, com a internet, é possível disponibilizar essas aplicações e técnicas, 
+atraves de estações de trabalho e servidores das empresas.
+
+Conhecidas como decisões inteligentes, as decisões que os BI's influênciam, tem como fundamento dados guardados
+em seus próprios sistemas de informações.
+
+Portanto, os benefícios de dessa tecnológia, vão muito além de nossas expectativas, de certa forma, tendo em mente
+as necessidades que uma empresa tem em conhecer seus produtos, serviços, clientes e processo, estas aplicações, 
+são irrefutavéis. 
+
+

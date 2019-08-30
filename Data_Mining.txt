@@ -1,0 +1,28 @@
+Data Mining 
+
+Data mining ou Prospecção de dados, tem uma função analítica, e seu foco é avaliar grandes quantidades 
+de dados, e transformar essas informações em padrões consistentes, como regras de associação ou 
+sequencias temporais, com isso, descobrir combinações entre variavéis e validar novas estratégias.
+
+É uma técnica que envolve muitos outros fatores, por exemplo, recuperação de informações, atividades de
+inteligência artificial, estatísticas e reconhecimento de padrões. Todos essas funções tem suas 
+responsabilidades dentro de um projeto de Business Intelligence. Outro fator que não pode ser esquecido,
+é o fator humano, pois mesmo sendo uma técnica que visa a obtenção de respostas, o fator humano precisa 
+impor as meta e transcrever as necessidades da empresa.
+
+Em administração emmpresarial, a prospecsão de dados, faz com que tendências e fatores decisivos sejam
+encontrados atraves da análise do banco de dados, auxiliando na formação de estratégias e vantagens 
+competitivas.
+
+Tipos de dados gerados por uma Data Mining são:
+
+- Associações: Eventos que estão relacionados a um evento em específico.
+- Sequências: Eventos onde uma decisão pode acarretar diversas outras.
+- Classificação: Eventos em que ha definição de grupos, e com essa classificação, são tomadas as melhores
+decisões nos seguimentos determinados.
+- Aglomeração (Clustering): Ferramenta onde, através de similaridades em fatores decisivos, transforma as
+informações em grupos.
+- Prognóstico: Essa técnica visa em utilizar os dados atuais para prever como serão os dados futuros. 
+Desta forma, utilizando estratégias e técnicas para chegar na meta final.
+
+
